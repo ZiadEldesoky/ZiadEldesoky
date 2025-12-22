@@ -4,8 +4,8 @@
 
 ### Full-Stack Developer | Angular & React | Node.js
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ziadeldesoky)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-sage-delta-50.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziad-eldesoky-68a4831b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiadEldesoky)
 
 </div>
@@ -75,7 +75,7 @@ Property listing platform with search, filtering & agent management
 
 **Open to freelance projects and job opportunities!**
 
-📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 **Email:** [zeyad.eldesoky@gmail.com](mailto:zeyad.eldesoky@gmail.com)
 
 </div>
 
