@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular+%7C+Node.js;Django+%7C+ASP.NET+%7C+NestJS;Building+AI-powered+SaaS+and+Web+Apps;ITI+Software+Engineering+Graduate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0E75B6&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Angular+%7C+Node.js;Django+%7C+NestJS;Building+AI-powered+SaaS+and+Web+Apps;ITI+Software+Engineering+Graduate" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 - Self-taught Full-Stack Web Developer with hands-on experience building scalable web applications.
 - Graduate of the ITI Software Engineering program.
 - Electrical Engineering background with a strong analytical and problem-solving mindset.
-- Experienced with React, Next.js, Angular, Django, ASP.NET, Node.js, NestJS, PostgreSQL, SQL Server, and MongoDB.
+- Experienced with React, Next.js, Angular, Django, Node.js, NestJS, PostgreSQL, SQL Server, and MongoDB.
 - Interested in AI-powered tools, SaaS platforms, dashboards, and high-performance web apps.
 - Open to freelance projects and full-time opportunities.
 
@@ -42,7 +42,7 @@
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,cs,dotnet" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django" alt="Backend skills" />
 </p>
 
 ### Databases, DevOps & Tools
@@ -67,21 +67,6 @@
 - Designed full authentication flow and user dashboards.
 - Built scalable REST APIs and integrated AI-driven learning tools.
 - Tech: MongoDB, Express.js, React, Node.js.
-
----
-
-### E-Commerce Platform | ASP.NET + Next.js
-- Developed a modern full-stack e-commerce platform with product management, authentication, and order processing.
-- Implemented secure backend APIs using ASP.NET and SQL Server.
-- Built a responsive frontend using Next.js and modern UI architecture.
-- Integrated JWT authentication for secure user sessions.
-
----
-
-### Job Board Platform | .NET Web API + Next.js
-- Built a full-stack job marketplace for employers and candidates.
-- Designed scalable REST APIs with .NET Web API.
-- Implemented job search functionality and optimized database structure.
 
 ---
 
